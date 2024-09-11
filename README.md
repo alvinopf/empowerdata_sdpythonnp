@@ -1,2 +1,2 @@
 # empowerdata_sdpythonnp
-Projetos daSemana do Python na Prática
+Projetos da Semana do Python na Prática
